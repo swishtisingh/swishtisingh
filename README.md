@@ -12,10 +12,8 @@
     <div class="container">
         <div class="content">
             <h1>Hi there 👋🏼, I'm Srishti Singh!</h1>
-            <h2>About Me</h2>
             <p>
-                I'm a final year student at IIT Jodhpur, with a deep passion for leveraging technology to solve real-world problems.
-                My expertise lies in machine learning, deep learning, data analysis, and visualization, where I excel in extracting actionable insights from complex datasets.
+                I'm Srishti Singh, a final year student at IIT Jodhpur, with a deep passion for leveraging technology to solve real-world problems. My expertise lies in machine learning, deep learning, data analysis, and visualization, where I excel in extracting actionable insights from complex datasets. Proficient in Python and C++, I enjoy coding elegant solutions to challenging problems. With strong communication skills and effective time management, I thrive in collaborative environments where innovation and creativity are valued. Let's connect and explore opportunities to make an impact together!
             </p>
             <h2>Skills</h2>
             <ul>
@@ -32,13 +30,6 @@
                 I enjoy coding elegant solutions to challenging problems. With strong communication skills and effective time management,
                 I thrive in collaborative environments where innovation and creativity are valued.
             </p>
-            <h2>Let's Connect</h2>
-            <p>
-                <a href="https://www.linkedin.com/in/srishti-singh-921aa52aa/" target="_blank">LinkedIn</a> |
-                <a href="srishtis1609@gmail.com" target="_blank">Mail</a> |
-                  </p>
-       </div>
-        <img src="https://i.pinimg.com/736x/c4/49/2e/c4492ed8aed5adb59f5b79c8de97979b.jpg" alt="Srishti Singh" class="profile-pic">
-    </div>
+        
 </body>
 </html>

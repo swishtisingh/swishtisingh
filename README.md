@@ -15,21 +15,7 @@
             <p>
                 I'm Srishti Singh, a final year student at IIT Jodhpur, with a deep passion for leveraging technology to solve real-world problems. My expertise lies in machine learning, deep learning, data analysis, and visualization, where I excel in extracting actionable insights from complex datasets. Proficient in Python and C++, I enjoy coding elegant solutions to challenging problems. With strong communication skills and effective time management, I thrive in collaborative environments where innovation and creativity are valued. Let's connect and explore opportunities to make an impact together!
             </p>
-            <h2>Skills</h2>
-            <ul>
-                <li>Machine Learning</li>
-                <li>Deep Learning</li>
-                <li>Data Analysis</li>
-                <li>Data Visualization</li>
-                <li>Generative AI</li>
-                <li>Python</li>
-                <li>C++</li>
-            </ul>
-            <h2>What I Enjoy</h2>
-            <p>
-                I enjoy coding elegant solutions to challenging problems. With strong communication skills and effective time management,
-                I thrive in collaborative environments where innovation and creativity are valued.
-            </p>
+         
         
 </body>
 </html>

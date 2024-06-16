@@ -17,7 +17,7 @@
 
  
 I'm a senior year student at IIT Jodhpur, with a deep passion for leveraging technology to solve real-world problems. I am Al and Data Science enthusiast. I love exploaring Machine Learning and Deep Learning. <br><br>
-Excited to make a positive impact on society through open source Machine Learning and Deep Learning initiatives.<br><br>
+Excited to make a positive impact on society through open source Machine Learning and Deep Learning projects.<br><br>
 My philosophy is to break down large problems into smaller ones and solve them one by one. That's why I always say, <br>
 >"One algorithm at a time ;)" 
 

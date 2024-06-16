@@ -9,13 +9,16 @@
 </html>
 
 <body>
+    <span style="font-family: 'Lucida Console';">
     <div class="container">
         <div class="content">
             <h1>Hi there 👋🏼, I'm Srishti Singh!</h1>
             <p>
-                I'm Srishti Singh, a final year student at IIT Jodhpur, with a deep passion for leveraging technology to solve real-world problems. My expertise lies in machine learning, deep learning, data analysis, and visualization, where I excel in extracting actionable insights from complex datasets. Proficient in Python and C++, I enjoy coding elegant solutions to challenging problems. With strong communication skills and effective time management, I thrive in collaborative environments where innovation and creativity are valued. Let's connect and explore opportunities to make an impact together!
+                I'm senior year student at IIT Jodhpur, with a deep passion for leveraging technology to solve real-world problems. I am Al and Data Science enthusiast. I love exploaring Machine Learning and Deep Learning. <br>
+My philosophy is to break down large problems into smaller ones and solve them one by one. That's why I always say, "One algorithm at a time ;)" <br>
+Excited to make a positive impact on society through open source Machine Learning and Deep Learning initiatives.
             </p>
-         
+    </span>
         
 </body>
 </html>

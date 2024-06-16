@@ -1,11 +1,25 @@
-![MasterHead](https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Banner</title>
+    <style>
+        .banner {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <img src="https://i.pinimg.com/originals/7a/68/af/7a68affa5b1996be4467b93109133cbd.gif" alt="Banner Image" class="banner">
+    </div>
+</body>
+</html>
 
 <h1 align="center">Hi 👋 there, it's Srishti this side!</h1>
 <h3 align="center">An AI and Data Science enthusiast from India.</h3>
-
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/c4/49/2e/c4492ed8aed5adb59f5b79c8de97979b.jpg")
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swishtisingh&label=Profile%20views&color=0e75b6&style=flat" alt="swishtisingh" /> </p>
 
 - 🌱 I’m currently learning **Generative AI**
 

@@ -1,19 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Banner</title>
-    <style>
-        .banner {
-            width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
+
 <body>
     <div>
-        <img src="https://i.pinimg.com/originals/7a/68/af/7a68affa5b1996be4467b93109133cbd.gif" alt="Banner Image" class="banner">
+        <img src="https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif" alt="Banner Image" class="banner">
     </div>
 </body>
 </html>

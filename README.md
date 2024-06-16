@@ -8,7 +8,6 @@
 </body>
 </html>
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -55,8 +54,8 @@
 <body>
     <div class="container">
         <div class="content">
-            <h1>Hi, I'm Srishti Singh</h1>
-            <img src="https://via.placeholder.com/150" alt="Srishti Singh" class="profile-pic">
+            <h1>Hi there 👋🏼, I'm Srishti Singh!</h1>
+            <img src="https://i.pinimg.com/736x/c4/49/2e/c4492ed8aed5adb59f5b79c8de97979b.jpg" alt="Srishti Singh" class="profile-pic">
             <h2>About Me</h2>
             <p>
                 I'm a final year student at IIT Jodhpur, with a deep passion for leveraging technology to solve real-world problems.
@@ -68,6 +67,7 @@
                 <li>Deep Learning</li>
                 <li>Data Analysis</li>
                 <li>Data Visualization</li>
+                <li>Generative AI</li>
                 <li>Python</li>
                 <li>C++</li>
             </ul>
@@ -78,9 +78,9 @@
             </p>
             <h2>Let's Connect</h2>
             <p>
-                <a href="https://www.linkedin.com/in/srishti-singh" target="_blank">LinkedIn</a> |
-                <a href="https://twitter.com/srishti_singh" target="_blank">Twitter</a> |
-                <a href="mailto:srishti.singh@example.com">Email</a>
+                <a href="https://www.linkedin.com/in/srishti-singh-921aa52aa/" target="_blank">LinkedIn</a> |
+                <a href="srishtis1609@gmail.com" target="_blank">Mail</a> |
+                
             </p>
         </div>
     </div>

@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/7a/68/af/7a68affa5b1996be4467b93109133cbd.gif)]
+![MasterHead](https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif)
 
 <h1 align="center">Hi 👋 there, it's Srishti this side!</h1>
 <h3 align="center">An AI and Data Science enthusiast from India.</h3>

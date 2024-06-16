@@ -19,10 +19,3 @@
         
 </body>
 </html>
-
-<a href="https://github.com/swishtisingh/swishtisingh">
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swishtisingh/swishtisingh/main/dark_mode.svg">
-    <img alt="Srishti Singh's GitHub Profile README" src="https://raw.githubusercontent.com/swishtisingh/swishtisingh/main/light_mode.svg">
-  </picture>
-</a>

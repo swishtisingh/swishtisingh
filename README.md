@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 there, it's Srishti this side!</h1>
 <h3 align="center">An AI and Data Science enthusiast from India.</h3>
 
-(img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/52987733111668160/")
+(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/c4/49/2e/c4492ed8aed5adb59f5b79c8de97979b.jpg")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swishtisingh&label=Profile%20views&color=0e75b6&style=flat" alt="swishtisingh" /> </p>
 

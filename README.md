@@ -12,7 +12,6 @@
     <div class="container">
         <div class="content">
             <h1>Hi there 👋🏼, I'm Srishti Singh!</h1>
-        
             <h2>About Me</h2>
             <p>
                 I'm a final year student at IIT Jodhpur, with a deep passion for leveraging technology to solve real-world problems.
@@ -37,10 +36,9 @@
             <p>
                 <a href="https://www.linkedin.com/in/srishti-singh-921aa52aa/" target="_blank">LinkedIn</a> |
                 <a href="srishtis1609@gmail.com" target="_blank">Mail</a> |
-                
-            </p>
+                  </p>
        </div>
-        <img src="https://via.placeholder.com/100" alt="Srishti Singh" class="profile-pic">
+        <img src="https://i.pinimg.com/736x/c4/49/2e/c4492ed8aed5adb59f5b79c8de97979b.jpg" alt="Srishti Singh" class="profile-pic">
     </div>
 </body>
 </html>
